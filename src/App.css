@@ -1,0 +1,36 @@
+.vertical__center {
+  display: flex;
+  justify-content: center;
+}
+
+.text-center {
+  text-align: center !important;
+  margin: auto;
+}
+
+.url__form {
+  /* width: 40%; */
+  justify-content: center;
+  display: flex;
+}
+
+.url__form button {
+  margin-right: 50px;
+}
+
+.show__short__url {
+  margin-top: 30px;
+  padding: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.header {
+  padding: 50px;
+}
+
+.qr__code {
+  margin-top: 20px;
+}
